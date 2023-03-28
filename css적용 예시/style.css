@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+    background-color: #99CCFF;
+}
+body{
+    text-align: center;
+    padding-top: 5%;
+}
+
+h1 {
+    color: red;
+}
+
+span {
+    color: orange;
+}
+
+h2 {
+    color: yellow;
+}
+
+h3 {
+    color: green;
+}
+
+/*div {*/
+/*    color: blue;*/
+/*}*/
+
+.juchan {
+    color: indigo;
+}
+
+img {
+    border-radius: 10%;
+    transition: all ease 0.5s;
+}
+
+#yeachan:hover {
+    transform: rotate(360deg);
+}
+
+div {
+    transition: all ease 0.5s;
+}
+
+.wrap:hover {
+
+    transform: rotate(360deg);
+
+}
+
